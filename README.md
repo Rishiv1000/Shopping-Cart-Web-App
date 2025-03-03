@@ -19,8 +19,13 @@ npm i in both and npm start backend , npm run dev frontend
 in backend - 
 
 PORT = 2060
+
 DB_URI = mongodb+srv://rishiv1000:1221@cluster0.ta7g1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
 BASE_URL = http://localhost:5173
+
+
 SECRET_KEY= shopping-cart-1112
 
 in frontend - 
